@@ -45,7 +45,7 @@ The following variables influence the simulation and can be adjusted for game ba
 - Note: Dusk and Glitter awards are given only once in a chicken's lifetime when the chicken is of rare or better reproductivity.
 
 ## Note on Rooster Fertility
-The mechanic of rooster fertility is key to keeping the flock population under control. With a starting flock of 1200 chickens, a typical simulation sees the flock completely dying out by around day 810.
+The mechanic of rooster fertility is key to keeping the flock population under control. With a starting flock of 1200 chickens, a typical simulation sees the flock completely dying out by around day 810.  If the mean Rooster fertility is > 2 then the flock will grow unbounded. The values presented now are below 2! It leads to the idea that Cooking and Life Science and Chemistry could be combined to make some especially tasty and sexy Love Potion Number 9 out of Mealworms!
 
 ## Note on Food Consumption
 The food_per_chicken value represents the consumption of chicken food. This is an important balancing variable and can be adjusted to make the simulation more or less challenging. Higher food requirements will put more pressure on resource management.
